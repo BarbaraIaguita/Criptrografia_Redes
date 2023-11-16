@@ -1,0 +1,15 @@
+C:\Users\Samsung\OneDrive\Documentos\GitHub\Criptrografia_Redes\App_Criptografia\bin\Debug\net6.0\App_Criptografia.exe
+C:\Users\Samsung\OneDrive\Documentos\GitHub\Criptrografia_Redes\App_Criptografia\bin\Debug\net6.0\App_Criptografia.deps.json
+C:\Users\Samsung\OneDrive\Documentos\GitHub\Criptrografia_Redes\App_Criptografia\bin\Debug\net6.0\App_Criptografia.runtimeconfig.json
+C:\Users\Samsung\OneDrive\Documentos\GitHub\Criptrografia_Redes\App_Criptografia\bin\Debug\net6.0\App_Criptografia.dll
+C:\Users\Samsung\OneDrive\Documentos\GitHub\Criptrografia_Redes\App_Criptografia\bin\Debug\net6.0\App_Criptografia.pdb
+C:\Users\Samsung\OneDrive\Documentos\GitHub\Criptrografia_Redes\App_Criptografia\obj\Debug\net6.0\App_Criptografia.csproj.AssemblyReference.cache
+C:\Users\Samsung\OneDrive\Documentos\GitHub\Criptrografia_Redes\App_Criptografia\obj\Debug\net6.0\App_Criptografia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\OneDrive\Documentos\GitHub\Criptrografia_Redes\App_Criptografia\obj\Debug\net6.0\App_Criptografia.AssemblyInfoInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\GitHub\Criptrografia_Redes\App_Criptografia\obj\Debug\net6.0\App_Criptografia.AssemblyInfo.cs
+C:\Users\Samsung\OneDrive\Documentos\GitHub\Criptrografia_Redes\App_Criptografia\obj\Debug\net6.0\App_Criptografia.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\GitHub\Criptrografia_Redes\App_Criptografia\obj\Debug\net6.0\App_Criptografia.dll
+C:\Users\Samsung\OneDrive\Documentos\GitHub\Criptrografia_Redes\App_Criptografia\obj\Debug\net6.0\refint\App_Criptografia.dll
+C:\Users\Samsung\OneDrive\Documentos\GitHub\Criptrografia_Redes\App_Criptografia\obj\Debug\net6.0\App_Criptografia.pdb
+C:\Users\Samsung\OneDrive\Documentos\GitHub\Criptrografia_Redes\App_Criptografia\obj\Debug\net6.0\App_Criptografia.genruntimeconfig.cache
+C:\Users\Samsung\OneDrive\Documentos\GitHub\Criptrografia_Redes\App_Criptografia\obj\Debug\net6.0\ref\App_Criptografia.dll
